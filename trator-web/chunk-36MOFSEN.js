@@ -1,1 +1,0 @@
-import{P as o,Sa as r}from"./chunk-SILGRMNZ.js";var c=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=o({type:e,selectors:[["tw-login"]],standalone:!0,features:[r],decls:0,vars:0,template:function(n,i){}});let t=e;return t})();export{c as LoginComponent};
